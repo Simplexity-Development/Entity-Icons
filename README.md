@@ -15,3 +15,13 @@ There are 2 designs
 
 
 ## 16x16
+
+![image](https://github.com/ADHDMC/Entity-Icons/blob/main/Entities/16x16_display.png?raw=true)
+
+------
+
+There are sprite pages for resolutions 8x8, 16x16, 64x64, and 256x256
+
+If you make something with this you should tell me because I think it'd be cool to see
+
+alr yeah cool
