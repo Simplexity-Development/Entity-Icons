@@ -168,8 +168,7 @@
         "entity": "minecraft:tropical_fish"
       },
       {
-        "entity": "minecraft:slime",
-        "special": "slime_transparency"
+        "entity": "minecraft:slime"
       },
       {
         "entity": "minecraft:parrot",
@@ -218,7 +217,8 @@
         "variant": "toast_rabbit"
       },
       {
-        "entity": "minecraft:slime_no_transparency"
+        "entity": "minecraft:slime",
+        "special": "opaque_slime"
       },
       {
         "entity": "minecraft:ravager"

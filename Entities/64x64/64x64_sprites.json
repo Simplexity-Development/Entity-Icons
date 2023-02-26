@@ -1,0 +1,592 @@
+{
+  "entities": {
+    "height": 768,
+    "width": 832,
+    "columns": 13,
+    "rows": 12,
+    "row_1": [
+      {
+        "entity": "minecraft:zombified_piglin"
+      },
+      {
+        "entity": "minecraft:zoglin"
+      },
+      {
+        "entity": "minecraft:zombie"
+      },
+      {
+        "entity": "minecraft:wolf"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "white_splotched_rabbit"
+      },
+      {
+        "entity": "minecraft:warden"
+      },
+      {
+        "entity": "minecraft:strider",
+        "variant": "cold_strider"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "salt_rabbit"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "pink_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "magenta_sheep"
+      },
+      {
+        "entity": "minecraft:llama",
+        "variant": "grey_llama"
+      },
+      {
+        "entity": "minecraft:creeper"
+      },
+      {
+        "entity": "minecraft:blaze"
+      }
+    ],
+    "row_2": [
+      {
+        "entity": "minecraft:zombie_villager"
+      },
+      {
+        "entity": "minecraft:zombie_horse"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "yellow_shulker"
+      },
+      {
+        "entity": "minecraft:wither_skull"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "white_shulker"
+      },
+      {
+        "entity": "minecraft:wandering_trader"
+      },
+      {
+        "entity": "minecraft:stray"
+      },
+      {
+        "entity": "minecraft:salmon"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "pink_sheep"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "lime_shulker"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "green_shulker"
+      },
+      {
+        "entity": "minecraft:trader_llama",
+        "variant": "creamy_trader_llama"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "black_shulker"
+      }
+    ],
+    "row_3": [
+      {
+        "entity": "minecraft:sheep",
+        "variant": "yellow_sheep"
+      },
+      {
+        "entity": "minecraft:parrot",
+        "variant": "yellow_blue_parrot"
+      },
+      {
+        "entity": "minecraft:panda",
+        "variant": "worried_panda"
+      },
+      {
+        "entity": "minecraft:wither_skeleton"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "white_sheep"
+      },
+      {
+        "entity": "minecraft:vindicator"
+      },
+      {
+        "entity": "minecraft:squid"
+      },
+      {
+        "entity": "shulker",
+        "variant": "minecraft:red_shulker"
+      },
+      {
+        "entity": "minecraft:axolotl",
+        "variant": "pink_axolotl"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "lime_sheep"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "green_sheep"
+      },
+      {
+        "entity": "minecraft:llama",
+        "variant": "creamy_llama"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "black_sheep"
+      }
+    ],
+    "row_4": [
+      {
+        "entity": "minecraft:wither"
+      },
+      {
+        "entity": "minecraft:witch"
+      },
+      {
+        "entity": "minecraft:axolotl",
+        "variant": "wild_axolotl"
+      },
+      {
+        "entity": "minecraft:trader_llama",
+        "variant": "white_trader_llama"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "white_rabbit"
+      },
+      {
+        "entity": "minecraft:vex"
+      },
+      {
+        "entity": "minecraft:spider"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "red_sheep"
+      },
+      {
+        "entity": "minecraft:pillager"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "light_grey_shulker"
+      },
+      {
+        "entity": "minecraft:parrot",
+        "variant": "green_parrot"
+      },
+      {
+        "entity": "minecraft:cow"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "black_rabbit"
+      }
+    ],
+    "row_5": [
+      {
+        "entity": "minecraft:llama",
+        "variant": "white_llama"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "white_cat"
+      },
+      {
+        "entity": "minecraft:panda",
+        "variant": "weak_panda"
+      },
+      {
+        "entity": "minecraft:strider",
+        "variant": "warm_strider"
+      },
+      {
+        "entity": "minecraft:frog",
+        "variant": "warm_frog"
+      },
+      {
+        "entity": "minecraft:turtle"
+      },
+      {
+        "entity": "minecraft:fox",
+        "variant": "snow_fox"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "red_cat"
+      },
+      {
+        "entity": "minecraft:piglin_brute"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "light_grey_sheep"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "gold_rabbit"
+      },
+      {
+        "entity": "minecraft:frog",
+        "variant": "cold_frog"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "black_cat"
+      }
+    ],
+    "row_6": [
+      {
+        "entity": "minecraft:tropical_fish"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "toast_rabbit"
+      },
+      {
+        "entity": "minecraft:frog",
+        "variant": "temperate_frog"
+      },
+      {
+        "entity": "minecraft:wolf",
+        "variant": "tamed_wolf"
+      },
+      {
+        "entity": "minecraft:tadpole"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "tabby_cat"
+      },
+      {
+        "entity": "minecraft:slime"
+      },
+      {
+        "entity": "minecraft:parrot",
+        "variant": "red_blue_parrot"
+      },
+      {
+        "entity": "minecraft:piglin"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "light_blue_shulker"
+      },
+      {
+        "entity": "minecraft:axolotl",
+        "variant": "gold_axolotl"
+      },
+      {
+        "entity": "minecraft:cod"
+      },
+      {
+        "entity": "minecraft:bee"
+      }
+    ],
+    "row_7": [
+      {
+        "entity": "minecraft:slime",
+        "special": "opaque_slime"
+      },
+      {
+        "entity": "minecraft:skeleton_horse"
+      },
+      {
+        "entity": "minecraft:skeleton"
+      },
+      {
+        "entity": "minecraft:silver_fish"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "siamese_cat"
+      },
+      {
+        "entity": "minecraft:shulker"
+      },
+      {
+        "entity": "minecraft:snow_golem",
+        "variant": "sheared_golem"
+      },
+      {
+        "entity": "minecraft:ravager"
+      },
+      {
+        "entity": "minecraft:pig"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "light_blue_sheep"
+      },
+      {
+        "entity": "minecraft:goat"
+      },
+      {
+        "entity": "minecraft:chicken"
+      },
+      {
+        "entity": "minecraft:bat"
+      }
+    ],
+    "row_8": [
+      {
+        "entity": "minecraft:cat",
+        "variant": "ragdoll_cat"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "purple_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "purple_sheep"
+      },
+      {
+        "entity": "minecraft:snow_golem",
+        "variant": "pumpkin_golem"
+      },
+      {
+        "entity": "minecraft:pufferfish"
+      },
+      {
+        "entity": "minecraft:polar_bear"
+      },
+      {
+        "entity": "minecraft:panda",
+        "variant": "playful_panda"
+      },
+      {
+        "entity": "minecraft:villager",
+        "variant": "plain_villager"
+      },
+      {
+        "entity": "minecraft:phantom"
+      },
+      {
+        "entity": "minecraft:panda",
+        "variant": "lazy_panda"
+      },
+      {
+        "entity": "minecraft:glow_squid"
+      },
+      {
+        "entity": "minecraft:creeper",
+        "special": "charged_creeper"
+      },
+      {
+        "entity": "minecraft:wolf",
+        "special": "angry_wolf"
+      }
+    ],
+    "row_9": [
+      {
+        "entity": "minecraft:cat",
+        "variant": "persian_cat"
+      },
+      {
+        "entity": "minecraft:panda"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "orange_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "orange_sheep"
+      },
+      {
+        "entity": "minecraft:ocelot"
+      },
+      {
+        "entity": "minecraft:mule"
+      },
+      {
+        "entity": "minecraft:mooshroom",
+        "variant": "red_mooshroom"
+      },
+      {
+        "entity": "minecraft:magma_cube"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "magenta_shulker"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "jellie_cat"
+      },
+      {
+        "entity": "minecraft:ghast"
+      },
+      {
+        "entity": "minecraft:cave_spider"
+      },
+      {
+        "entity": "minecraft:bee",
+        "special": "angry_bee"
+      }
+    ],
+    "row_10": [
+      {
+        "entity": "minecraft:iron_golem"
+      },
+      {
+        "entity": "minecraft:illusioner"
+      },
+      {
+        "entity": "minecraft:husk"
+      },
+      {
+        "entity": "minecraft:horse"
+      },
+      {
+        "entity": "minecraft:hoglin"
+      },
+      {
+        "entity": "minecraft:guardian"
+      },
+      {
+        "entity": "minecraft:trader_llama",
+        "variant": "grey_trader_llama"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "grey_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "grey_sheep"
+      },
+      {
+        "entity": "minecraft:parrot",
+        "variant": "grey_parrot"
+      },
+      {
+        "entity": "minecraft:fox",
+        "variant": "red_fox"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "calico_cat"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "all_black_cat"
+      }
+    ],
+    "row_11": [
+      {
+        "entity": "minecraft:evoker"
+      },
+      {
+        "entity": "minecraft:endermite"
+      },
+      {
+        "entity": "minecraft:enderman"
+      },
+      {
+        "entity": "minecraft:ender_dragon"
+      },
+      {
+        "entity": "minecraft:elder_guardian"
+      },
+      {
+        "entity": "minecraft:drowned"
+      },
+      {
+        "entity": "minecraft:donkey"
+      },
+      {
+        "entity": "minecraft:dolphin"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "cyan_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "cyan_sheep"
+      },
+      {
+        "entity": "minecraft:axolotl",
+        "variant": "cyan_axolotl"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "caerbannog_rabbit"
+      },
+      {
+        "entity": "minecraft:allay"
+      }
+    ],
+    "row_12": [
+      {
+        "entity": "minecraft:trader_llama",
+        "variant": "brown_trader_llama"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "brown_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "brown_sheep"
+      },
+      {
+        "entity": "minecraft:rabbit",
+        "variant": "brown_rabbit"
+      },
+      {
+        "entity": "minecraft:panda",
+        "variant": "brown_panda"
+      },
+      {
+        "entity": "minecraft:mooshroom",
+        "variant": "brown_mooshroom"
+      },
+      {
+        "entity": "minecraft:llama",
+        "variant": "brown_llama"
+      },
+      {
+        "entity": "minecraft:cat",
+        "variant": "british_shorthair_cat"
+      },
+      {
+        "entity": "minecraft:shulker",
+        "variant": "blue_shulker"
+      },
+      {
+        "entity": "minecraft:sheep",
+        "variant": "blue_sheep"
+      },
+      {
+        "entity": "minecraft:parrot",
+        "variant": "blue_parrot"
+      },
+      {
+        "entity": "minecraft:axolotl",
+        "variant": "blue_axolotl"
+      },
+      {
+        "entity": "minecraft:panda",
+        "variant": "aggressive_panda"
+      }
+    ]
+  }
+}
