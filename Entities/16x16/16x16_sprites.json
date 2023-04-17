@@ -1,9 +1,9 @@
 {
   "entities": {
-    "height": 192,
+    "height": 208,
     "width": 208,
     "columns": 13,
-    "rows": 12,
+    "rows": 13,
     "row_1": [
       {
         "entity": "minecraft:zombified_piglin"
@@ -586,6 +586,14 @@
       {
         "entity": "minecraft:panda",
         "variant": "aggressive_panda"
+      }
+    ],
+    "row_13": [
+      {
+        "entity": "minecraft:camel"
+      },
+      {
+        "entity": "minecraft:sniffer"
       }
     ]
   }

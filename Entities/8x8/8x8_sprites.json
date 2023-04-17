@@ -380,6 +380,9 @@
       {
         "entity": "minecraft:trader_llama",
         "variant": "brown_trader_llama"
+      },
+      {
+        "entity": "minecraft:camel"
       }
     ],
     "row_9": [
@@ -425,6 +428,9 @@
       {
         "entity": "minecraft:shulker",
         "variant": "brown_shulker"
+      },
+      {
+        "entity": "minecraft:sniffer"
       }
     ],
     "row_10": [
