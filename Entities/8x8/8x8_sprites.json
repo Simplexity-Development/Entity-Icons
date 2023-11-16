@@ -1,6 +1,6 @@
 {
   "entities": {
-    "height" : 96,
+    "height": 96,
     "width": 104,
     "columns": 13,
     "rows": 12,
@@ -19,7 +19,7 @@
       },
       {
         "entity": "minecraft:shulker",
-        "variant" : "white_shulker"
+        "variant": "white_shulker"
       },
       {
         "entity": "minecraft:vindicator"
@@ -478,6 +478,9 @@
       {
         "entity": "minecraft:sheep",
         "variant": "brown_sheep"
+      },
+      {
+        "entity": "minecraft:breeze"
       }
     ],
     "row_11": [

@@ -594,6 +594,9 @@
       },
       {
         "entity": "minecraft:sniffer"
+      },
+      {
+        "entity": "minecraft:breeze"
       }
     ]
   }
