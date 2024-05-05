@@ -1,9 +1,9 @@
 {
   "entities": {
-    "height": 832,
+    "height": 960,
     "width": 832,
     "columns": 13,
-    "rows": 13,
+    "rows": 15,
     "row_1": [
       {
         "entity": "minecraft:zombified_piglin"
@@ -15,7 +15,8 @@
         "entity": "minecraft:zombie"
       },
       {
-        "entity": "minecraft:wolf"
+        "entity": "minecraft:wolf",
+		"variant": "pale"
       },
       {
         "entity": "minecraft:rabbit",
@@ -264,7 +265,8 @@
       },
       {
         "entity": "minecraft:wolf",
-        "variant": "tamed_wolf"
+        "variant": "pale",
+		"special": "tame"
       },
       {
         "entity": "minecraft:tadpole"
@@ -390,7 +392,8 @@
       },
       {
         "entity": "minecraft:wolf",
-        "special": "angry_wolf"
+		"variant": "pale",
+        "special": "angry"
       }
     ],
     "row_9": [
@@ -597,7 +600,129 @@
       },
       {
         "entity": "minecraft:breeze"
-      }
-    ]
+      },
+	  {
+		"entity":"minecraft:armadillo"
+	  },
+	  {
+		"entity":"minecraft:bogged"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"ashen"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"black"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"chestnut"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"rusty"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"spotted"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"striped"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"snowy"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"woods"
+	  }	  
+    ],
+	"row_14":[
+	{
+		  "entity": "minecraft:wolf",
+		  "variant":"ashen",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"black",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"chestnut",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"rusty",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"spotted",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"striped",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"snowy",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"woods",
+		  "special":"tame"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"ashen",
+		  "special":"angry"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"black",
+		  "special":"angry"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"chestnut",
+		  "special":"angry"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"rusty",
+		  "special":"angry"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"spotted",
+		  "special":"angry"
+	  }
+	],
+	"row_15":[
+	{
+		  "entity": "minecraft:wolf",
+		  "variant":"striped",
+		  "special":"angry"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant": "snowy",
+		  "special": "angry"
+	  },
+	  {
+		  "entity": "minecraft:wolf",
+		  "variant":"woods",
+		  "special":"angry"
+	  }	  
+	]
   }
 }
