@@ -35,7 +35,7 @@ There is an additional directory at the resolution of 800x800, this does not hav
 ### Roadmap:
 In the future, we plan to add the following to Entity-Icons:
 
-- [ ] Villager types, either a sprite page for them, or just textures you can overlay yourself
-- [ ] Zombie villager types, either a sprite page for them, or just textures you can overlay yourself
-- [ ] Horse type overlays
+- [x] Villager types, either a sprite page for them, or just textures you can overlay yourself
+- [x] Zombie villager types, either a sprite page for them, or just textures you can overlay yourself
+- [x] Horse type overlays
 - [ ] Fish type overlays
