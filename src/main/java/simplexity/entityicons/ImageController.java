@@ -12,10 +12,15 @@ import org.springframework.util.StreamUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+
 
 @RestController
 @RequestMapping("/api/v1/textures")
@@ -31,25 +36,48 @@ public class ImageController {
     }
 
     @GetMapping(value = "/{category}/{filename}/{size}", produces = MediaType.IMAGE_PNG_VALUE)
-    public ResponseEntity<byte[]> getImage(@PathVariable String category, @PathVariable String filename, @PathVariable int size) {
+    public ResponseEntity<byte[]> getImage(
+            @PathVariable String category,
+            @PathVariable String filename,
+            @PathVariable int size,
+            @RequestParam(required = false, defaultValue = "1") int scale) {
         String filePath = "file:" + assetsBasePath + "/png_files/" + category + "/" + size + "x" + size + "/" + filename + ".png";
         Resource resource = resourceLoader.getResource(filePath);
-        if (resource.exists()) {
-            try (InputStream inputStream = resource.getInputStream()) {
-                byte[] imageBytes = StreamUtils.copyToByteArray(inputStream);
-                String downloadName = filename + "_" + size + "x" + size;
-                HttpHeaders headers = new HttpHeaders();
-                headers.add(HttpHeaders.CONTENT_TYPE, "image/png");
-                headers.add(HttpHeaders.CONTENT_DISPOSITION, String.format("inline; filename=%s", downloadName));
+        if (!resource.exists()) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
 
-                return new ResponseEntity<>(imageBytes, headers, HttpStatus.OK);
+        }
+        byte[] imageBytes;
+        try (InputStream inputStream = resource.getInputStream()) {
+            imageBytes = StreamUtils.copyToByteArray(inputStream);
+        } catch (IOException e) {
+            e.printStackTrace();
+            return ResponseEntity.status(HttpStatus.ALREADY_REPORTED).build();
+        }
+        String downloadName = filename + "_" + size + "x" + size;
+        if (scale > 1) {
+            BufferedImage rescaledImage = Rescaler.rescaleImage(filePath, scale, size);
+            if (rescaledImage == null) {
+                return ResponseEntity.status(HttpStatus.CONFLICT).build();
+            }
+            ByteArrayOutputStream imageByteArrayOutputStream = new ByteArrayOutputStream();
+            try {
+                ImageIO.write(rescaledImage, "png", imageByteArrayOutputStream);
             } catch (IOException e) {
                 e.printStackTrace();
-                return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
+                return ResponseEntity.status(HttpStatus.FAILED_DEPENDENCY).build();
             }
-        } else {
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
+            imageBytes = imageByteArrayOutputStream.toByteArray();
+            downloadName = filename + "_" + (size * scale) + "x" + (size * scale);
+
         }
+
+        HttpHeaders headers = new HttpHeaders();
+        headers.add(HttpHeaders.CONTENT_TYPE, "image/png");
+        headers.add(HttpHeaders.CONTENT_DISPOSITION, String.format("inline; filename=%s", downloadName));
+        return new ResponseEntity<>(imageBytes, headers, HttpStatus.OK);
+
+
     }
 
 }
