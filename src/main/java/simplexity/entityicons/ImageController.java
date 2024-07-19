@@ -37,8 +37,10 @@ public class ImageController {
         if (resource.exists()) {
             try (InputStream inputStream = resource.getInputStream()) {
                 byte[] imageBytes = StreamUtils.copyToByteArray(inputStream);
+                String downloadName = filename + "_" + size + "x" + size;
                 HttpHeaders headers = new HttpHeaders();
                 headers.add(HttpHeaders.CONTENT_TYPE, "image/png");
+                headers.add(HttpHeaders.CONTENT_DISPOSITION, String.format("inline; filename=%s", downloadName));
 
                 return new ResponseEntity<>(imageBytes, headers, HttpStatus.OK);
             } catch (IOException e) {
