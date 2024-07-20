@@ -41,43 +41,68 @@ public class ImageController {
             @PathVariable String filename,
             @PathVariable int size,
             @RequestParam(required = false, defaultValue = "1") int scale) {
+
         String filePath = "file:" + assetsBasePath + "/png_files/" + category + "/" + size + "x" + size + "/" + filename + ".png";
+        return processImageRequest(filePath, filename, size, scale);
+    }
+
+    @GetMapping(value = "/{category}/{type}/{filename}/{size}", produces = MediaType.IMAGE_PNG_VALUE)
+    public ResponseEntity<byte[]> getImageWithType(
+            @PathVariable String category,
+            @PathVariable String filename,
+            @PathVariable int size,
+            @PathVariable String type,
+            @RequestParam(required = false, defaultValue = "1") int scale) {
+
+        String filePath = "file:" + assetsBasePath + "/png_files/" + category + "/" + size + "x" + size + "/" + type + "/" + filename + ".png";
+        return processImageRequest(filePath, filename, size, scale);
+    }
+
+
+    private ResponseEntity<byte[]> processImageRequest(String filePath, String filename, int size, int scale) {
+
         Resource resource = resourceLoader.getResource(filePath);
+
         if (!resource.exists()) {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
-
         }
+
         byte[] imageBytes;
+
         try (InputStream inputStream = resource.getInputStream()) {
             imageBytes = StreamUtils.copyToByteArray(inputStream);
         } catch (IOException e) {
             e.printStackTrace();
             return ResponseEntity.status(HttpStatus.ALREADY_REPORTED).build();
         }
+
         String downloadName = filename + "_" + size + "x" + size;
+
         if (scale > 1) {
+
             BufferedImage rescaledImage = Rescaler.rescaleImage(filePath, scale, size);
+
             if (rescaledImage == null) {
                 return ResponseEntity.status(HttpStatus.CONFLICT).build();
             }
+
             ByteArrayOutputStream imageByteArrayOutputStream = new ByteArrayOutputStream();
+
             try {
                 ImageIO.write(rescaledImage, "png", imageByteArrayOutputStream);
             } catch (IOException e) {
                 e.printStackTrace();
                 return ResponseEntity.status(HttpStatus.FAILED_DEPENDENCY).build();
             }
+
             imageBytes = imageByteArrayOutputStream.toByteArray();
             downloadName = filename + "_" + (size * scale) + "x" + (size * scale);
-
         }
 
         HttpHeaders headers = new HttpHeaders();
         headers.add(HttpHeaders.CONTENT_TYPE, "image/png");
         headers.add(HttpHeaders.CONTENT_DISPOSITION, String.format("inline; filename=%s", downloadName));
         return new ResponseEntity<>(imageBytes, headers, HttpStatus.OK);
-
-
     }
 
 }
