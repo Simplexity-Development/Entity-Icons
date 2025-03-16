@@ -1,0 +1,17 @@
+"acacia", "bamboo", "birch", "cherry", "crimson", "dark_oak", "jungle", "mangrove", "oak", "spruce", "warped"
+
+"hanging_chains", "middle_chains", "standing", "wall", "wall_hanging"
+
+"armorer", "butcher", "cleric", "farmer", "fisherman", "fletcher", "librarian", "shepherd", "swamp", "weaponsmith", "savanna", "desert", "swamp", "tundra"
+
+"red", "orange", "yellow", "lime", "green", "cyan", "blue", "light_blue", "purple", "magenta", "pink", "white", "light_gray", "gray", "black", "brown", "angry", "default"
+
+"ashen", "black", "chestnut", "pale", "rusty", "snowy", "spotted", "striped", "woods"
+
+"black", "brown", "chestnut", "creamy", "dark_brown", "gray", "white", "mule", "donkey", "skeleton", "zombie"
+
+"white_field", "white_spots", "white_stockings_and_blaze", "default"
+
+"red", "orange", "yellow", "lime", "green", "cyan", "blue", "light_blue", "purple", "magenta", "pink", "white", "light_gray", "gray", "black", "brown", "trader", "default"
+
+"gray", "white", "creamy", "brown"
