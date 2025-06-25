@@ -1,0 +1,1298 @@
+{
+    "ashen_angry.png": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "angry"
+    },
+    "ashen_black.png": {
+        "position": {
+            "x": 16,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "black"
+    },
+    "ashen_blue.png": {
+        "position": {
+            "x": 32,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "blue"
+    },
+    "ashen_brown.png": {
+        "position": {
+            "x": 48,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "brown"
+    },
+    "ashen_cyan.png": {
+        "position": {
+            "x": 64,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "cyan"
+    },
+    "ashen_default.png": {
+        "position": {
+            "x": 80,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "default"
+    },
+    "ashen_gray.png": {
+        "position": {
+            "x": 96,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "gray"
+    },
+    "ashen_green.png": {
+        "position": {
+            "x": 112,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "green"
+    },
+    "ashen_light_blue.png": {
+        "position": {
+            "x": 128,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "light_blue"
+    },
+    "ashen_light_gray.png": {
+        "position": {
+            "x": 144,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "light_gray"
+    },
+    "ashen_lime.png": {
+        "position": {
+            "x": 160,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "lime"
+    },
+    "ashen_magenta.png": {
+        "position": {
+            "x": 176,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "magenta"
+    },
+    "ashen_orange.png": {
+        "position": {
+            "x": 192,
+            "y": 0
+        },
+        "variant": "ashen",
+        "decoration": "orange"
+    },
+    "ashen_pink.png": {
+        "position": {
+            "x": 0,
+            "y": 16
+        },
+        "variant": "ashen",
+        "decoration": "pink"
+    },
+    "ashen_purple.png": {
+        "position": {
+            "x": 16,
+            "y": 16
+        },
+        "variant": "ashen",
+        "decoration": "purple"
+    },
+    "ashen_red.png": {
+        "position": {
+            "x": 32,
+            "y": 16
+        },
+        "variant": "ashen",
+        "decoration": "red"
+    },
+    "ashen_white.png": {
+        "position": {
+            "x": 48,
+            "y": 16
+        },
+        "variant": "ashen",
+        "decoration": "white"
+    },
+    "ashen_yellow.png": {
+        "position": {
+            "x": 64,
+            "y": 16
+        },
+        "variant": "ashen",
+        "decoration": "yellow"
+    },
+    "black_angry.png": {
+        "position": {
+            "x": 80,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "angry"
+    },
+    "black_black.png": {
+        "position": {
+            "x": 96,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "black"
+    },
+    "black_blue.png": {
+        "position": {
+            "x": 112,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "blue"
+    },
+    "black_brown.png": {
+        "position": {
+            "x": 128,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "brown"
+    },
+    "black_cyan.png": {
+        "position": {
+            "x": 144,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "cyan"
+    },
+    "black_default.png": {
+        "position": {
+            "x": 160,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "default"
+    },
+    "black_gray.png": {
+        "position": {
+            "x": 176,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "gray"
+    },
+    "black_green.png": {
+        "position": {
+            "x": 192,
+            "y": 16
+        },
+        "variant": "black",
+        "decoration": "green"
+    },
+    "black_light_blue.png": {
+        "position": {
+            "x": 0,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "light_blue"
+    },
+    "black_light_gray.png": {
+        "position": {
+            "x": 16,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "light_gray"
+    },
+    "black_lime.png": {
+        "position": {
+            "x": 32,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "lime"
+    },
+    "black_magenta.png": {
+        "position": {
+            "x": 48,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "magenta"
+    },
+    "black_orange.png": {
+        "position": {
+            "x": 64,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "orange"
+    },
+    "black_pink.png": {
+        "position": {
+            "x": 80,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "pink"
+    },
+    "black_purple.png": {
+        "position": {
+            "x": 96,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "purple"
+    },
+    "black_red.png": {
+        "position": {
+            "x": 112,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "red"
+    },
+    "black_white.png": {
+        "position": {
+            "x": 128,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "white"
+    },
+    "black_yellow.png": {
+        "position": {
+            "x": 144,
+            "y": 32
+        },
+        "variant": "black",
+        "decoration": "yellow"
+    },
+    "chestnut_angry.png": {
+        "position": {
+            "x": 160,
+            "y": 32
+        },
+        "variant": "chestnut",
+        "decoration": "angry"
+    },
+    "chestnut_black.png": {
+        "position": {
+            "x": 176,
+            "y": 32
+        },
+        "variant": "chestnut",
+        "decoration": "black"
+    },
+    "chestnut_blue.png": {
+        "position": {
+            "x": 192,
+            "y": 32
+        },
+        "variant": "chestnut",
+        "decoration": "blue"
+    },
+    "chestnut_brown.png": {
+        "position": {
+            "x": 0,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "brown"
+    },
+    "chestnut_cyan.png": {
+        "position": {
+            "x": 16,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "cyan"
+    },
+    "chestnut_default.png": {
+        "position": {
+            "x": 32,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "default"
+    },
+    "chestnut_gray.png": {
+        "position": {
+            "x": 48,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "gray"
+    },
+    "chestnut_green.png": {
+        "position": {
+            "x": 64,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "green"
+    },
+    "chestnut_light_blue.png": {
+        "position": {
+            "x": 80,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "light_blue"
+    },
+    "chestnut_light_gray.png": {
+        "position": {
+            "x": 96,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "light_gray"
+    },
+    "chestnut_lime.png": {
+        "position": {
+            "x": 112,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "lime"
+    },
+    "chestnut_magenta.png": {
+        "position": {
+            "x": 128,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "magenta"
+    },
+    "chestnut_orange.png": {
+        "position": {
+            "x": 144,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "orange"
+    },
+    "chestnut_pink.png": {
+        "position": {
+            "x": 160,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "pink"
+    },
+    "chestnut_purple.png": {
+        "position": {
+            "x": 176,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "purple"
+    },
+    "chestnut_red.png": {
+        "position": {
+            "x": 192,
+            "y": 48
+        },
+        "variant": "chestnut",
+        "decoration": "red"
+    },
+    "chestnut_white.png": {
+        "position": {
+            "x": 0,
+            "y": 64
+        },
+        "variant": "chestnut",
+        "decoration": "white"
+    },
+    "chestnut_yellow.png": {
+        "position": {
+            "x": 16,
+            "y": 64
+        },
+        "variant": "chestnut",
+        "decoration": "yellow"
+    },
+    "pale_angry.png": {
+        "position": {
+            "x": 32,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "angry"
+    },
+    "pale_black.png": {
+        "position": {
+            "x": 48,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "black"
+    },
+    "pale_blue.png": {
+        "position": {
+            "x": 64,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "blue"
+    },
+    "pale_brown.png": {
+        "position": {
+            "x": 80,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "brown"
+    },
+    "pale_cyan.png": {
+        "position": {
+            "x": 96,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "cyan"
+    },
+    "pale_default.png": {
+        "position": {
+            "x": 112,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "default"
+    },
+    "pale_gray.png": {
+        "position": {
+            "x": 128,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "gray"
+    },
+    "pale_green.png": {
+        "position": {
+            "x": 144,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "green"
+    },
+    "pale_light_blue.png": {
+        "position": {
+            "x": 160,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "light_blue"
+    },
+    "pale_light_gray.png": {
+        "position": {
+            "x": 176,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "light_gray"
+    },
+    "pale_lime.png": {
+        "position": {
+            "x": 192,
+            "y": 64
+        },
+        "variant": "pale",
+        "decoration": "lime"
+    },
+    "pale_magenta.png": {
+        "position": {
+            "x": 0,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "magenta"
+    },
+    "pale_orange.png": {
+        "position": {
+            "x": 16,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "orange"
+    },
+    "pale_pink.png": {
+        "position": {
+            "x": 32,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "pink"
+    },
+    "pale_purple.png": {
+        "position": {
+            "x": 48,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "purple"
+    },
+    "pale_red.png": {
+        "position": {
+            "x": 64,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "red"
+    },
+    "pale_white.png": {
+        "position": {
+            "x": 80,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "white"
+    },
+    "pale_yellow.png": {
+        "position": {
+            "x": 96,
+            "y": 80
+        },
+        "variant": "pale",
+        "decoration": "yellow"
+    },
+    "rusty_angry.png": {
+        "position": {
+            "x": 112,
+            "y": 80
+        },
+        "variant": "rusty",
+        "decoration": "angry"
+    },
+    "rusty_black.png": {
+        "position": {
+            "x": 128,
+            "y": 80
+        },
+        "variant": "rusty",
+        "decoration": "black"
+    },
+    "rusty_blue.png": {
+        "position": {
+            "x": 144,
+            "y": 80
+        },
+        "variant": "rusty",
+        "decoration": "blue"
+    },
+    "rusty_brown.png": {
+        "position": {
+            "x": 160,
+            "y": 80
+        },
+        "variant": "rusty",
+        "decoration": "brown"
+    },
+    "rusty_cyan.png": {
+        "position": {
+            "x": 176,
+            "y": 80
+        },
+        "variant": "rusty",
+        "decoration": "cyan"
+    },
+    "rusty_default.png": {
+        "position": {
+            "x": 192,
+            "y": 80
+        },
+        "variant": "rusty",
+        "decoration": "default"
+    },
+    "rusty_gray.png": {
+        "position": {
+            "x": 0,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "gray"
+    },
+    "rusty_green.png": {
+        "position": {
+            "x": 16,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "green"
+    },
+    "rusty_light_blue.png": {
+        "position": {
+            "x": 32,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "light_blue"
+    },
+    "rusty_light_gray.png": {
+        "position": {
+            "x": 48,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "light_gray"
+    },
+    "rusty_lime.png": {
+        "position": {
+            "x": 64,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "lime"
+    },
+    "rusty_magenta.png": {
+        "position": {
+            "x": 80,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "magenta"
+    },
+    "rusty_orange.png": {
+        "position": {
+            "x": 96,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "orange"
+    },
+    "rusty_pink.png": {
+        "position": {
+            "x": 112,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "pink"
+    },
+    "rusty_purple.png": {
+        "position": {
+            "x": 128,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "purple"
+    },
+    "rusty_red.png": {
+        "position": {
+            "x": 144,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "red"
+    },
+    "rusty_white.png": {
+        "position": {
+            "x": 160,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "white"
+    },
+    "rusty_yellow.png": {
+        "position": {
+            "x": 176,
+            "y": 96
+        },
+        "variant": "rusty",
+        "decoration": "yellow"
+    },
+    "snowy_angry.png": {
+        "position": {
+            "x": 192,
+            "y": 96
+        },
+        "variant": "snowy",
+        "decoration": "angry"
+    },
+    "snowy_black.png": {
+        "position": {
+            "x": 0,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "black"
+    },
+    "snowy_blue.png": {
+        "position": {
+            "x": 16,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "blue"
+    },
+    "snowy_brown.png": {
+        "position": {
+            "x": 32,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "brown"
+    },
+    "snowy_cyan.png": {
+        "position": {
+            "x": 48,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "cyan"
+    },
+    "snowy_default.png": {
+        "position": {
+            "x": 64,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "default"
+    },
+    "snowy_gray.png": {
+        "position": {
+            "x": 80,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "gray"
+    },
+    "snowy_green.png": {
+        "position": {
+            "x": 96,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "green"
+    },
+    "snowy_light_blue.png": {
+        "position": {
+            "x": 112,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "light_blue"
+    },
+    "snowy_light_gray.png": {
+        "position": {
+            "x": 128,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "light_gray"
+    },
+    "snowy_lime.png": {
+        "position": {
+            "x": 144,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "lime"
+    },
+    "snowy_magenta.png": {
+        "position": {
+            "x": 160,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "magenta"
+    },
+    "snowy_orange.png": {
+        "position": {
+            "x": 176,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "orange"
+    },
+    "snowy_pink.png": {
+        "position": {
+            "x": 192,
+            "y": 112
+        },
+        "variant": "snowy",
+        "decoration": "pink"
+    },
+    "snowy_purple.png": {
+        "position": {
+            "x": 0,
+            "y": 128
+        },
+        "variant": "snowy",
+        "decoration": "purple"
+    },
+    "snowy_red.png": {
+        "position": {
+            "x": 16,
+            "y": 128
+        },
+        "variant": "snowy",
+        "decoration": "red"
+    },
+    "snowy_white.png": {
+        "position": {
+            "x": 32,
+            "y": 128
+        },
+        "variant": "snowy",
+        "decoration": "white"
+    },
+    "snowy_yellow.png": {
+        "position": {
+            "x": 48,
+            "y": 128
+        },
+        "variant": "snowy",
+        "decoration": "yellow"
+    },
+    "spotted_angry.png": {
+        "position": {
+            "x": 64,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "angry"
+    },
+    "spotted_black.png": {
+        "position": {
+            "x": 80,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "black"
+    },
+    "spotted_blue.png": {
+        "position": {
+            "x": 96,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "blue"
+    },
+    "spotted_brown.png": {
+        "position": {
+            "x": 112,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "brown"
+    },
+    "spotted_cyan.png": {
+        "position": {
+            "x": 128,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "cyan"
+    },
+    "spotted_default.png": {
+        "position": {
+            "x": 144,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "default"
+    },
+    "spotted_gray.png": {
+        "position": {
+            "x": 160,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "gray"
+    },
+    "spotted_green.png": {
+        "position": {
+            "x": 176,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "green"
+    },
+    "spotted_light_blue.png": {
+        "position": {
+            "x": 192,
+            "y": 128
+        },
+        "variant": "spotted",
+        "decoration": "light_blue"
+    },
+    "spotted_light_gray.png": {
+        "position": {
+            "x": 0,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "light_gray"
+    },
+    "spotted_lime.png": {
+        "position": {
+            "x": 16,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "lime"
+    },
+    "spotted_magenta.png": {
+        "position": {
+            "x": 32,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "magenta"
+    },
+    "spotted_orange.png": {
+        "position": {
+            "x": 48,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "orange"
+    },
+    "spotted_pink.png": {
+        "position": {
+            "x": 64,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "pink"
+    },
+    "spotted_purple.png": {
+        "position": {
+            "x": 80,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "purple"
+    },
+    "spotted_red.png": {
+        "position": {
+            "x": 96,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "red"
+    },
+    "spotted_white.png": {
+        "position": {
+            "x": 112,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "white"
+    },
+    "spotted_yellow.png": {
+        "position": {
+            "x": 128,
+            "y": 144
+        },
+        "variant": "spotted",
+        "decoration": "yellow"
+    },
+    "striped_angry.png": {
+        "position": {
+            "x": 144,
+            "y": 144
+        },
+        "variant": "striped",
+        "decoration": "angry"
+    },
+    "striped_black.png": {
+        "position": {
+            "x": 160,
+            "y": 144
+        },
+        "variant": "striped",
+        "decoration": "black"
+    },
+    "striped_blue.png": {
+        "position": {
+            "x": 176,
+            "y": 144
+        },
+        "variant": "striped",
+        "decoration": "blue"
+    },
+    "striped_brown.png": {
+        "position": {
+            "x": 192,
+            "y": 144
+        },
+        "variant": "striped",
+        "decoration": "brown"
+    },
+    "striped_cyan.png": {
+        "position": {
+            "x": 0,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "cyan"
+    },
+    "striped_default.png": {
+        "position": {
+            "x": 16,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "default"
+    },
+    "striped_gray.png": {
+        "position": {
+            "x": 32,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "gray"
+    },
+    "striped_green.png": {
+        "position": {
+            "x": 48,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "green"
+    },
+    "striped_light_blue.png": {
+        "position": {
+            "x": 64,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "light_blue"
+    },
+    "striped_light_gray.png": {
+        "position": {
+            "x": 80,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "light_gray"
+    },
+    "striped_lime.png": {
+        "position": {
+            "x": 96,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "lime"
+    },
+    "striped_magenta.png": {
+        "position": {
+            "x": 112,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "magenta"
+    },
+    "striped_orange.png": {
+        "position": {
+            "x": 128,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "orange"
+    },
+    "striped_pink.png": {
+        "position": {
+            "x": 144,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "pink"
+    },
+    "striped_purple.png": {
+        "position": {
+            "x": 160,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "purple"
+    },
+    "striped_red.png": {
+        "position": {
+            "x": 176,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "red"
+    },
+    "striped_white.png": {
+        "position": {
+            "x": 192,
+            "y": 160
+        },
+        "variant": "striped",
+        "decoration": "white"
+    },
+    "striped_yellow.png": {
+        "position": {
+            "x": 0,
+            "y": 176
+        },
+        "variant": "striped",
+        "decoration": "yellow"
+    },
+    "woods_angry.png": {
+        "position": {
+            "x": 16,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "angry"
+    },
+    "woods_black.png": {
+        "position": {
+            "x": 32,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "black"
+    },
+    "woods_blue.png": {
+        "position": {
+            "x": 48,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "blue"
+    },
+    "woods_brown.png": {
+        "position": {
+            "x": 64,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "brown"
+    },
+    "woods_cyan.png": {
+        "position": {
+            "x": 80,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "cyan"
+    },
+    "woods_default.png": {
+        "position": {
+            "x": 96,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "default"
+    },
+    "woods_gray.png": {
+        "position": {
+            "x": 112,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "gray"
+    },
+    "woods_green.png": {
+        "position": {
+            "x": 128,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "green"
+    },
+    "woods_light_blue.png": {
+        "position": {
+            "x": 144,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "light_blue"
+    },
+    "woods_light_gray.png": {
+        "position": {
+            "x": 160,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "light_gray"
+    },
+    "woods_lime.png": {
+        "position": {
+            "x": 176,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "lime"
+    },
+    "woods_magenta.png": {
+        "position": {
+            "x": 192,
+            "y": 176
+        },
+        "variant": "woods",
+        "decoration": "magenta"
+    },
+    "woods_orange.png": {
+        "position": {
+            "x": 0,
+            "y": 192
+        },
+        "variant": "woods",
+        "decoration": "orange"
+    },
+    "woods_pink.png": {
+        "position": {
+            "x": 16,
+            "y": 192
+        },
+        "variant": "woods",
+        "decoration": "pink"
+    },
+    "woods_purple.png": {
+        "position": {
+            "x": 32,
+            "y": 192
+        },
+        "variant": "woods",
+        "decoration": "purple"
+    },
+    "woods_red.png": {
+        "position": {
+            "x": 48,
+            "y": 192
+        },
+        "variant": "woods",
+        "decoration": "red"
+    },
+    "woods_white.png": {
+        "position": {
+            "x": 64,
+            "y": 192
+        },
+        "variant": "woods",
+        "decoration": "white"
+    },
+    "woods_yellow.png": {
+        "position": {
+            "x": 80,
+            "y": 192
+        },
+        "variant": "woods",
+        "decoration": "yellow"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "default_armorer.png": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "variant": "default",
+        "decoration": "armorer"
+    },
+    "default_butcher.png": {
+        "position": {
+            "x": 8,
+            "y": 0
+        },
+        "variant": "default",
+        "decoration": "butcher"
+    },
+    "default_cleric.png": {
+        "position": {
+            "x": 16,
+            "y": 0
+        },
+        "variant": "default",
+        "decoration": "cleric"
+    },
+    "default_default.png": {
+        "position": {
+            "x": 24,
+            "y": 0
+        },
+        "variant": "default",
+        "decoration": "default"
+    },
+    "default_farmer.png": {
+        "position": {
+            "x": 0,
+            "y": 8
+        },
+        "variant": "default",
+        "decoration": "farmer"
+    },
+    "default_fisherman.png": {
+        "position": {
+            "x": 8,
+            "y": 8
+        },
+        "variant": "default",
+        "decoration": "fisherman"
+    },
+    "default_fletcher.png": {
+        "position": {
+            "x": 16,
+            "y": 8
+        },
+        "variant": "default",
+        "decoration": "fletcher"
+    },
+    "default_librarian.png": {
+        "position": {
+            "x": 24,
+            "y": 8
+        },
+        "variant": "default",
+        "decoration": "librarian"
+    },
+    "default_shepherd.png": {
+        "position": {
+            "x": 0,
+            "y": 16
+        },
+        "variant": "default",
+        "decoration": "shepherd"
+    },
+    "default_weaponsmith.png": {
+        "position": {
+            "x": 8,
+            "y": 16
+        },
+        "variant": "default",
+        "decoration": "weaponsmith"
+    },
+    "desert_default.png": {
+        "position": {
+            "x": 16,
+            "y": 16
+        },
+        "variant": "desert",
+        "decoration": "default"
+    },
+    "savanna_default.png": {
+        "position": {
+            "x": 24,
+            "y": 16
+        },
+        "variant": "savanna",
+        "decoration": "default"
+    },
+    "swamp_default.png": {
+        "position": {
+            "x": 0,
+            "y": 24
+        },
+        "variant": "swamp",
+        "decoration": "default"
+    },
+    "tundra_default.png": {
+        "position": {
+            "x": 8,
+            "y": 24
+        },
+        "variant": "tundra",
+        "decoration": "default"
+    }
+}

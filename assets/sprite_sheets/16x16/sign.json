@@ -1,0 +1,402 @@
+{
+    "acacia_hanging_chains.png": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "variant": "acacia",
+        "decoration": "hanging_chains"
+    },
+    "acacia_middle_chains.png": {
+        "position": {
+            "x": 16,
+            "y": 0
+        },
+        "variant": "acacia",
+        "decoration": "middle_chains"
+    },
+    "acacia_standing.png": {
+        "position": {
+            "x": 32,
+            "y": 0
+        },
+        "variant": "acacia",
+        "decoration": "standing"
+    },
+    "acacia_wall.png": {
+        "position": {
+            "x": 48,
+            "y": 0
+        },
+        "variant": "acacia",
+        "decoration": "wall"
+    },
+    "acacia_wall_hanging.png": {
+        "position": {
+            "x": 64,
+            "y": 0
+        },
+        "variant": "acacia",
+        "decoration": "wall_hanging"
+    },
+    "bamboo_hanging_chains.png": {
+        "position": {
+            "x": 80,
+            "y": 0
+        },
+        "variant": "bamboo",
+        "decoration": "hanging_chains"
+    },
+    "bamboo_middle_chains.png": {
+        "position": {
+            "x": 96,
+            "y": 0
+        },
+        "variant": "bamboo",
+        "decoration": "middle_chains"
+    },
+    "bamboo_standing.png": {
+        "position": {
+            "x": 112,
+            "y": 0
+        },
+        "variant": "bamboo",
+        "decoration": "standing"
+    },
+    "bamboo_wall.png": {
+        "position": {
+            "x": 0,
+            "y": 16
+        },
+        "variant": "bamboo",
+        "decoration": "wall"
+    },
+    "bamboo_wall_hanging.png": {
+        "position": {
+            "x": 16,
+            "y": 16
+        },
+        "variant": "bamboo",
+        "decoration": "wall_hanging"
+    },
+    "birch_hanging_chains.png": {
+        "position": {
+            "x": 32,
+            "y": 16
+        },
+        "variant": "birch",
+        "decoration": "hanging_chains"
+    },
+    "birch_middle_chains.png": {
+        "position": {
+            "x": 48,
+            "y": 16
+        },
+        "variant": "birch",
+        "decoration": "middle_chains"
+    },
+    "birch_standing.png": {
+        "position": {
+            "x": 64,
+            "y": 16
+        },
+        "variant": "birch",
+        "decoration": "standing"
+    },
+    "birch_wall.png": {
+        "position": {
+            "x": 80,
+            "y": 16
+        },
+        "variant": "birch",
+        "decoration": "wall"
+    },
+    "birch_wall_hanging.png": {
+        "position": {
+            "x": 96,
+            "y": 16
+        },
+        "variant": "birch",
+        "decoration": "wall_hanging"
+    },
+    "cherry_hanging_chains.png": {
+        "position": {
+            "x": 112,
+            "y": 16
+        },
+        "variant": "cherry",
+        "decoration": "hanging_chains"
+    },
+    "cherry_middle_chains.png": {
+        "position": {
+            "x": 0,
+            "y": 32
+        },
+        "variant": "cherry",
+        "decoration": "middle_chains"
+    },
+    "cherry_standing.png": {
+        "position": {
+            "x": 16,
+            "y": 32
+        },
+        "variant": "cherry",
+        "decoration": "standing"
+    },
+    "cherry_wall.png": {
+        "position": {
+            "x": 32,
+            "y": 32
+        },
+        "variant": "cherry",
+        "decoration": "wall"
+    },
+    "cherry_wall_hanging.png": {
+        "position": {
+            "x": 48,
+            "y": 32
+        },
+        "variant": "cherry",
+        "decoration": "wall_hanging"
+    },
+    "crimson_hanging_chains.png": {
+        "position": {
+            "x": 64,
+            "y": 32
+        },
+        "variant": "crimson",
+        "decoration": "hanging_chains"
+    },
+    "crimson_middle_chains.png": {
+        "position": {
+            "x": 80,
+            "y": 32
+        },
+        "variant": "crimson",
+        "decoration": "middle_chains"
+    },
+    "crimson_standing.png": {
+        "position": {
+            "x": 96,
+            "y": 32
+        },
+        "variant": "crimson",
+        "decoration": "standing"
+    },
+    "crimson_wall.png": {
+        "position": {
+            "x": 112,
+            "y": 32
+        },
+        "variant": "crimson",
+        "decoration": "wall"
+    },
+    "crimson_wall_hanging.png": {
+        "position": {
+            "x": 0,
+            "y": 48
+        },
+        "variant": "crimson",
+        "decoration": "wall_hanging"
+    },
+    "jungle_hanging_chains.png": {
+        "position": {
+            "x": 96,
+            "y": 48
+        },
+        "variant": "jungle",
+        "decoration": "hanging_chains"
+    },
+    "jungle_middle_chains.png": {
+        "position": {
+            "x": 112,
+            "y": 48
+        },
+        "variant": "jungle",
+        "decoration": "middle_chains"
+    },
+    "jungle_standing.png": {
+        "position": {
+            "x": 0,
+            "y": 64
+        },
+        "variant": "jungle",
+        "decoration": "standing"
+    },
+    "jungle_wall.png": {
+        "position": {
+            "x": 16,
+            "y": 64
+        },
+        "variant": "jungle",
+        "decoration": "wall"
+    },
+    "jungle_wall_hanging.png": {
+        "position": {
+            "x": 32,
+            "y": 64
+        },
+        "variant": "jungle",
+        "decoration": "wall_hanging"
+    },
+    "mangrove_hanging_chains.png": {
+        "position": {
+            "x": 48,
+            "y": 64
+        },
+        "variant": "mangrove",
+        "decoration": "hanging_chains"
+    },
+    "mangrove_middle_chains.png": {
+        "position": {
+            "x": 64,
+            "y": 64
+        },
+        "variant": "mangrove",
+        "decoration": "middle_chains"
+    },
+    "mangrove_standing.png": {
+        "position": {
+            "x": 80,
+            "y": 64
+        },
+        "variant": "mangrove",
+        "decoration": "standing"
+    },
+    "mangrove_wall.png": {
+        "position": {
+            "x": 96,
+            "y": 64
+        },
+        "variant": "mangrove",
+        "decoration": "wall"
+    },
+    "mangrove_wall_hanging.png": {
+        "position": {
+            "x": 112,
+            "y": 64
+        },
+        "variant": "mangrove",
+        "decoration": "wall_hanging"
+    },
+    "oak_hanging_chains.png": {
+        "position": {
+            "x": 0,
+            "y": 80
+        },
+        "variant": "oak",
+        "decoration": "hanging_chains"
+    },
+    "oak_middle_chains.png": {
+        "position": {
+            "x": 16,
+            "y": 80
+        },
+        "variant": "oak",
+        "decoration": "middle_chains"
+    },
+    "oak_standing.png": {
+        "position": {
+            "x": 32,
+            "y": 80
+        },
+        "variant": "oak",
+        "decoration": "standing"
+    },
+    "oak_wall.png": {
+        "position": {
+            "x": 48,
+            "y": 80
+        },
+        "variant": "oak",
+        "decoration": "wall"
+    },
+    "oak_wall_hanging.png": {
+        "position": {
+            "x": 64,
+            "y": 80
+        },
+        "variant": "oak",
+        "decoration": "wall_hanging"
+    },
+    "spruce_hanging_chains.png": {
+        "position": {
+            "x": 80,
+            "y": 80
+        },
+        "variant": "spruce",
+        "decoration": "hanging_chains"
+    },
+    "spruce_middle_chains.png": {
+        "position": {
+            "x": 96,
+            "y": 80
+        },
+        "variant": "spruce",
+        "decoration": "middle_chains"
+    },
+    "spruce_standing.png": {
+        "position": {
+            "x": 112,
+            "y": 80
+        },
+        "variant": "spruce",
+        "decoration": "standing"
+    },
+    "spruce_wall.png": {
+        "position": {
+            "x": 0,
+            "y": 96
+        },
+        "variant": "spruce",
+        "decoration": "wall"
+    },
+    "spruce_wall_hanging.png": {
+        "position": {
+            "x": 16,
+            "y": 96
+        },
+        "variant": "spruce",
+        "decoration": "wall_hanging"
+    },
+    "warped_hanging_chains.png": {
+        "position": {
+            "x": 32,
+            "y": 96
+        },
+        "variant": "warped",
+        "decoration": "hanging_chains"
+    },
+    "warped_middle_chains.png": {
+        "position": {
+            "x": 48,
+            "y": 96
+        },
+        "variant": "warped",
+        "decoration": "middle_chains"
+    },
+    "warped_standing.png": {
+        "position": {
+            "x": 64,
+            "y": 96
+        },
+        "variant": "warped",
+        "decoration": "standing"
+    },
+    "warped_wall.png": {
+        "position": {
+            "x": 80,
+            "y": 96
+        },
+        "variant": "warped",
+        "decoration": "wall"
+    },
+    "warped_wall_hanging.png": {
+        "position": {
+            "x": 96,
+            "y": 96
+        },
+        "variant": "warped",
+        "decoration": "wall_hanging"
+    }
+}

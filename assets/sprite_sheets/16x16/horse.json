@@ -1,0 +1,226 @@
+{
+    "black_black_dots.png": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "black_dots"
+    },
+    "black_default.png": {
+        "position": {
+            "x": 16,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "default"
+    },
+    "black_white_field.png": {
+        "position": {
+            "x": 32,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "white_field"
+    },
+    "black_white_spots.png": {
+        "position": {
+            "x": 48,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "white_spots"
+    },
+    "brown_black_dots.png": {
+        "position": {
+            "x": 64,
+            "y": 0
+        },
+        "variant": "brown",
+        "decoration": "black_dots"
+    },
+    "brown_default.png": {
+        "position": {
+            "x": 80,
+            "y": 0
+        },
+        "variant": "brown",
+        "decoration": "default"
+    },
+    "brown_white_field.png": {
+        "position": {
+            "x": 0,
+            "y": 16
+        },
+        "variant": "brown",
+        "decoration": "white_field"
+    },
+    "brown_white_spots.png": {
+        "position": {
+            "x": 16,
+            "y": 16
+        },
+        "variant": "brown",
+        "decoration": "white_spots"
+    },
+    "chestnut_black_dots.png": {
+        "position": {
+            "x": 32,
+            "y": 16
+        },
+        "variant": "chestnut",
+        "decoration": "black_dots"
+    },
+    "chestnut_default.png": {
+        "position": {
+            "x": 48,
+            "y": 16
+        },
+        "variant": "chestnut",
+        "decoration": "default"
+    },
+    "chestnut_white_field.png": {
+        "position": {
+            "x": 64,
+            "y": 16
+        },
+        "variant": "chestnut",
+        "decoration": "white_field"
+    },
+    "chestnut_white_spots.png": {
+        "position": {
+            "x": 80,
+            "y": 16
+        },
+        "variant": "chestnut",
+        "decoration": "white_spots"
+    },
+    "creamy_black_dots.png": {
+        "position": {
+            "x": 0,
+            "y": 32
+        },
+        "variant": "creamy",
+        "decoration": "black_dots"
+    },
+    "creamy_default.png": {
+        "position": {
+            "x": 16,
+            "y": 32
+        },
+        "variant": "creamy",
+        "decoration": "default"
+    },
+    "creamy_white_field.png": {
+        "position": {
+            "x": 32,
+            "y": 32
+        },
+        "variant": "creamy",
+        "decoration": "white_field"
+    },
+    "creamy_white_spots.png": {
+        "position": {
+            "x": 48,
+            "y": 32
+        },
+        "variant": "creamy",
+        "decoration": "white_spots"
+    },
+    "donkey_default.png": {
+        "position": {
+            "x": 32,
+            "y": 48
+        },
+        "variant": "donkey",
+        "decoration": "default"
+    },
+    "gray_black_dots.png": {
+        "position": {
+            "x": 48,
+            "y": 48
+        },
+        "variant": "gray",
+        "decoration": "black_dots"
+    },
+    "gray_default.png": {
+        "position": {
+            "x": 64,
+            "y": 48
+        },
+        "variant": "gray",
+        "decoration": "default"
+    },
+    "gray_white_field.png": {
+        "position": {
+            "x": 80,
+            "y": 48
+        },
+        "variant": "gray",
+        "decoration": "white_field"
+    },
+    "gray_white_spots.png": {
+        "position": {
+            "x": 0,
+            "y": 64
+        },
+        "variant": "gray",
+        "decoration": "white_spots"
+    },
+    "mule_default.png": {
+        "position": {
+            "x": 64,
+            "y": 64
+        },
+        "variant": "mule",
+        "decoration": "default"
+    },
+    "skeleton_default.png": {
+        "position": {
+            "x": 80,
+            "y": 64
+        },
+        "variant": "skeleton",
+        "decoration": "default"
+    },
+    "white_black_dots.png": {
+        "position": {
+            "x": 0,
+            "y": 80
+        },
+        "variant": "white",
+        "decoration": "black_dots"
+    },
+    "white_default.png": {
+        "position": {
+            "x": 16,
+            "y": 80
+        },
+        "variant": "white",
+        "decoration": "default"
+    },
+    "white_white_field.png": {
+        "position": {
+            "x": 32,
+            "y": 80
+        },
+        "variant": "white",
+        "decoration": "white_field"
+    },
+    "white_white_spots.png": {
+        "position": {
+            "x": 48,
+            "y": 80
+        },
+        "variant": "white",
+        "decoration": "white_spots"
+    },
+    "zombie_default.png": {
+        "position": {
+            "x": 64,
+            "y": 80
+        },
+        "variant": "zombie",
+        "decoration": "default"
+    }
+}

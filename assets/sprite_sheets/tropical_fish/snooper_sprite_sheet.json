@@ -1,0 +1,1354 @@
+{
+    "black_black.png": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "black"
+    },
+    "black_blue.png": {
+        "position": {
+            "x": 16,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "blue"
+    },
+    "black_brown.png": {
+        "position": {
+            "x": 32,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "brown"
+    },
+    "black_cyan.png": {
+        "position": {
+            "x": 48,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "cyan"
+    },
+    "black_gray.png": {
+        "position": {
+            "x": 80,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "gray"
+    },
+    "black_lime.png": {
+        "position": {
+            "x": 128,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "lime"
+    },
+    "black_magenta.png": {
+        "position": {
+            "x": 144,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "magenta"
+    },
+    "black_orange.png": {
+        "position": {
+            "x": 160,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "orange"
+    },
+    "black_pink.png": {
+        "position": {
+            "x": 176,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "pink"
+    },
+    "black_purple.png": {
+        "position": {
+            "x": 192,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "purple"
+    },
+    "black_red.png": {
+        "position": {
+            "x": 208,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "red"
+    },
+    "black_white.png": {
+        "position": {
+            "x": 224,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "white"
+    },
+    "black_yellow.png": {
+        "position": {
+            "x": 240,
+            "y": 0
+        },
+        "base_color": "black",
+        "overlay_color": "yellow"
+    },
+    "blue_black.png": {
+        "position": {
+            "x": 256,
+            "y": 0
+        },
+        "base_color": "blue",
+        "overlay_color": "black"
+    },
+    "blue_blue.png": {
+        "position": {
+            "x": 0,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "blue"
+    },
+    "blue_brown.png": {
+        "position": {
+            "x": 16,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "brown"
+    },
+    "blue_cyan.png": {
+        "position": {
+            "x": 32,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "cyan"
+    },
+    "blue_gray.png": {
+        "position": {
+            "x": 64,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "gray"
+    },
+    "blue_lime.png": {
+        "position": {
+            "x": 112,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "lime"
+    },
+    "blue_magenta.png": {
+        "position": {
+            "x": 128,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "magenta"
+    },
+    "blue_orange.png": {
+        "position": {
+            "x": 144,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "orange"
+    },
+    "blue_pink.png": {
+        "position": {
+            "x": 160,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "pink"
+    },
+    "blue_purple.png": {
+        "position": {
+            "x": 176,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "purple"
+    },
+    "blue_red.png": {
+        "position": {
+            "x": 192,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "red"
+    },
+    "blue_white.png": {
+        "position": {
+            "x": 208,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "white"
+    },
+    "blue_yellow.png": {
+        "position": {
+            "x": 224,
+            "y": 16
+        },
+        "base_color": "blue",
+        "overlay_color": "yellow"
+    },
+    "brown_black.png": {
+        "position": {
+            "x": 240,
+            "y": 16
+        },
+        "base_color": "brown",
+        "overlay_color": "black"
+    },
+    "brown_blue.png": {
+        "position": {
+            "x": 256,
+            "y": 16
+        },
+        "base_color": "brown",
+        "overlay_color": "blue"
+    },
+    "brown_brown.png": {
+        "position": {
+            "x": 0,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "brown"
+    },
+    "brown_cyan.png": {
+        "position": {
+            "x": 16,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "cyan"
+    },
+    "brown_gray.png": {
+        "position": {
+            "x": 48,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "gray"
+    },
+    "brown_lime.png": {
+        "position": {
+            "x": 96,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "lime"
+    },
+    "brown_magenta.png": {
+        "position": {
+            "x": 112,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "magenta"
+    },
+    "brown_orange.png": {
+        "position": {
+            "x": 128,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "orange"
+    },
+    "brown_pink.png": {
+        "position": {
+            "x": 144,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "pink"
+    },
+    "brown_purple.png": {
+        "position": {
+            "x": 160,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "purple"
+    },
+    "brown_red.png": {
+        "position": {
+            "x": 176,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "red"
+    },
+    "brown_white.png": {
+        "position": {
+            "x": 192,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "white"
+    },
+    "brown_yellow.png": {
+        "position": {
+            "x": 208,
+            "y": 32
+        },
+        "base_color": "brown",
+        "overlay_color": "yellow"
+    },
+    "cyan_black.png": {
+        "position": {
+            "x": 224,
+            "y": 32
+        },
+        "base_color": "cyan",
+        "overlay_color": "black"
+    },
+    "cyan_blue.png": {
+        "position": {
+            "x": 240,
+            "y": 32
+        },
+        "base_color": "cyan",
+        "overlay_color": "blue"
+    },
+    "cyan_brown.png": {
+        "position": {
+            "x": 256,
+            "y": 32
+        },
+        "base_color": "cyan",
+        "overlay_color": "brown"
+    },
+    "cyan_cyan.png": {
+        "position": {
+            "x": 0,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "cyan"
+    },
+    "cyan_gray.png": {
+        "position": {
+            "x": 32,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "gray"
+    },
+    "cyan_lime.png": {
+        "position": {
+            "x": 80,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "lime"
+    },
+    "cyan_magenta.png": {
+        "position": {
+            "x": 96,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "magenta"
+    },
+    "cyan_orange.png": {
+        "position": {
+            "x": 112,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "orange"
+    },
+    "cyan_pink.png": {
+        "position": {
+            "x": 128,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "pink"
+    },
+    "cyan_purple.png": {
+        "position": {
+            "x": 144,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "purple"
+    },
+    "cyan_red.png": {
+        "position": {
+            "x": 160,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "red"
+    },
+    "cyan_white.png": {
+        "position": {
+            "x": 176,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "white"
+    },
+    "cyan_yellow.png": {
+        "position": {
+            "x": 192,
+            "y": 48
+        },
+        "base_color": "cyan",
+        "overlay_color": "yellow"
+    },
+    "gray_black.png": {
+        "position": {
+            "x": 192,
+            "y": 64
+        },
+        "base_color": "gray",
+        "overlay_color": "black"
+    },
+    "gray_blue.png": {
+        "position": {
+            "x": 208,
+            "y": 64
+        },
+        "base_color": "gray",
+        "overlay_color": "blue"
+    },
+    "gray_brown.png": {
+        "position": {
+            "x": 224,
+            "y": 64
+        },
+        "base_color": "gray",
+        "overlay_color": "brown"
+    },
+    "gray_cyan.png": {
+        "position": {
+            "x": 240,
+            "y": 64
+        },
+        "base_color": "gray",
+        "overlay_color": "cyan"
+    },
+    "gray_gray.png": {
+        "position": {
+            "x": 0,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "gray"
+    },
+    "gray_lime.png": {
+        "position": {
+            "x": 48,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "lime"
+    },
+    "gray_magenta.png": {
+        "position": {
+            "x": 64,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "magenta"
+    },
+    "gray_orange.png": {
+        "position": {
+            "x": 80,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "orange"
+    },
+    "gray_pink.png": {
+        "position": {
+            "x": 96,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "pink"
+    },
+    "gray_purple.png": {
+        "position": {
+            "x": 112,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "purple"
+    },
+    "gray_red.png": {
+        "position": {
+            "x": 128,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "red"
+    },
+    "gray_white.png": {
+        "position": {
+            "x": 144,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "white"
+    },
+    "gray_yellow.png": {
+        "position": {
+            "x": 160,
+            "y": 80
+        },
+        "base_color": "gray",
+        "overlay_color": "yellow"
+    },
+    "lime_black.png": {
+        "position": {
+            "x": 144,
+            "y": 112
+        },
+        "base_color": "lime",
+        "overlay_color": "black"
+    },
+    "lime_blue.png": {
+        "position": {
+            "x": 160,
+            "y": 112
+        },
+        "base_color": "lime",
+        "overlay_color": "blue"
+    },
+    "lime_brown.png": {
+        "position": {
+            "x": 176,
+            "y": 112
+        },
+        "base_color": "lime",
+        "overlay_color": "brown"
+    },
+    "lime_cyan.png": {
+        "position": {
+            "x": 192,
+            "y": 112
+        },
+        "base_color": "lime",
+        "overlay_color": "cyan"
+    },
+    "lime_gray.png": {
+        "position": {
+            "x": 224,
+            "y": 112
+        },
+        "base_color": "lime",
+        "overlay_color": "gray"
+    },
+    "lime_lime.png": {
+        "position": {
+            "x": 0,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "lime"
+    },
+    "lime_magenta.png": {
+        "position": {
+            "x": 16,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "magenta"
+    },
+    "lime_orange.png": {
+        "position": {
+            "x": 32,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "orange"
+    },
+    "lime_pink.png": {
+        "position": {
+            "x": 48,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "pink"
+    },
+    "lime_purple.png": {
+        "position": {
+            "x": 64,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "purple"
+    },
+    "lime_red.png": {
+        "position": {
+            "x": 80,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "red"
+    },
+    "lime_white.png": {
+        "position": {
+            "x": 96,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "white"
+    },
+    "lime_yellow.png": {
+        "position": {
+            "x": 112,
+            "y": 128
+        },
+        "base_color": "lime",
+        "overlay_color": "yellow"
+    },
+    "magenta_black.png": {
+        "position": {
+            "x": 128,
+            "y": 128
+        },
+        "base_color": "magenta",
+        "overlay_color": "black"
+    },
+    "magenta_blue.png": {
+        "position": {
+            "x": 144,
+            "y": 128
+        },
+        "base_color": "magenta",
+        "overlay_color": "blue"
+    },
+    "magenta_brown.png": {
+        "position": {
+            "x": 160,
+            "y": 128
+        },
+        "base_color": "magenta",
+        "overlay_color": "brown"
+    },
+    "magenta_cyan.png": {
+        "position": {
+            "x": 176,
+            "y": 128
+        },
+        "base_color": "magenta",
+        "overlay_color": "cyan"
+    },
+    "magenta_gray.png": {
+        "position": {
+            "x": 208,
+            "y": 128
+        },
+        "base_color": "magenta",
+        "overlay_color": "gray"
+    },
+    "magenta_lime.png": {
+        "position": {
+            "x": 256,
+            "y": 128
+        },
+        "base_color": "magenta",
+        "overlay_color": "lime"
+    },
+    "magenta_magenta.png": {
+        "position": {
+            "x": 0,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "magenta"
+    },
+    "magenta_orange.png": {
+        "position": {
+            "x": 16,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "orange"
+    },
+    "magenta_pink.png": {
+        "position": {
+            "x": 32,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "pink"
+    },
+    "magenta_purple.png": {
+        "position": {
+            "x": 48,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "purple"
+    },
+    "magenta_red.png": {
+        "position": {
+            "x": 64,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "red"
+    },
+    "magenta_white.png": {
+        "position": {
+            "x": 80,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "white"
+    },
+    "magenta_yellow.png": {
+        "position": {
+            "x": 96,
+            "y": 144
+        },
+        "base_color": "magenta",
+        "overlay_color": "yellow"
+    },
+    "orange_black.png": {
+        "position": {
+            "x": 112,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "black"
+    },
+    "orange_blue.png": {
+        "position": {
+            "x": 128,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "blue"
+    },
+    "orange_brown.png": {
+        "position": {
+            "x": 144,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "brown"
+    },
+    "orange_cyan.png": {
+        "position": {
+            "x": 160,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "cyan"
+    },
+    "orange_gray.png": {
+        "position": {
+            "x": 192,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "gray"
+    },
+    "orange_lime.png": {
+        "position": {
+            "x": 240,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "lime"
+    },
+    "orange_magenta.png": {
+        "position": {
+            "x": 256,
+            "y": 144
+        },
+        "base_color": "orange",
+        "overlay_color": "magenta"
+    },
+    "orange_orange.png": {
+        "position": {
+            "x": 0,
+            "y": 160
+        },
+        "base_color": "orange",
+        "overlay_color": "orange"
+    },
+    "orange_pink.png": {
+        "position": {
+            "x": 16,
+            "y": 160
+        },
+        "base_color": "orange",
+        "overlay_color": "pink"
+    },
+    "orange_purple.png": {
+        "position": {
+            "x": 32,
+            "y": 160
+        },
+        "base_color": "orange",
+        "overlay_color": "purple"
+    },
+    "orange_red.png": {
+        "position": {
+            "x": 48,
+            "y": 160
+        },
+        "base_color": "orange",
+        "overlay_color": "red"
+    },
+    "orange_white.png": {
+        "position": {
+            "x": 64,
+            "y": 160
+        },
+        "base_color": "orange",
+        "overlay_color": "white"
+    },
+    "orange_yellow.png": {
+        "position": {
+            "x": 80,
+            "y": 160
+        },
+        "base_color": "orange",
+        "overlay_color": "yellow"
+    },
+    "pink_black.png": {
+        "position": {
+            "x": 96,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "black"
+    },
+    "pink_blue.png": {
+        "position": {
+            "x": 112,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "blue"
+    },
+    "pink_brown.png": {
+        "position": {
+            "x": 128,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "brown"
+    },
+    "pink_cyan.png": {
+        "position": {
+            "x": 144,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "cyan"
+    },
+    "pink_gray.png": {
+        "position": {
+            "x": 176,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "gray"
+    },
+    "pink_lime.png": {
+        "position": {
+            "x": 224,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "lime"
+    },
+    "pink_magenta.png": {
+        "position": {
+            "x": 240,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "magenta"
+    },
+    "pink_orange.png": {
+        "position": {
+            "x": 256,
+            "y": 160
+        },
+        "base_color": "pink",
+        "overlay_color": "orange"
+    },
+    "pink_pink.png": {
+        "position": {
+            "x": 0,
+            "y": 176
+        },
+        "base_color": "pink",
+        "overlay_color": "pink"
+    },
+    "pink_purple.png": {
+        "position": {
+            "x": 16,
+            "y": 176
+        },
+        "base_color": "pink",
+        "overlay_color": "purple"
+    },
+    "pink_red.png": {
+        "position": {
+            "x": 32,
+            "y": 176
+        },
+        "base_color": "pink",
+        "overlay_color": "red"
+    },
+    "pink_white.png": {
+        "position": {
+            "x": 48,
+            "y": 176
+        },
+        "base_color": "pink",
+        "overlay_color": "white"
+    },
+    "pink_yellow.png": {
+        "position": {
+            "x": 64,
+            "y": 176
+        },
+        "base_color": "pink",
+        "overlay_color": "yellow"
+    },
+    "purple_black.png": {
+        "position": {
+            "x": 80,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "black"
+    },
+    "purple_blue.png": {
+        "position": {
+            "x": 96,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "blue"
+    },
+    "purple_brown.png": {
+        "position": {
+            "x": 112,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "brown"
+    },
+    "purple_cyan.png": {
+        "position": {
+            "x": 128,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "cyan"
+    },
+    "purple_gray.png": {
+        "position": {
+            "x": 160,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "gray"
+    },
+    "purple_lime.png": {
+        "position": {
+            "x": 208,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "lime"
+    },
+    "purple_magenta.png": {
+        "position": {
+            "x": 224,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "magenta"
+    },
+    "purple_orange.png": {
+        "position": {
+            "x": 240,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "orange"
+    },
+    "purple_pink.png": {
+        "position": {
+            "x": 256,
+            "y": 176
+        },
+        "base_color": "purple",
+        "overlay_color": "pink"
+    },
+    "purple_purple.png": {
+        "position": {
+            "x": 0,
+            "y": 192
+        },
+        "base_color": "purple",
+        "overlay_color": "purple"
+    },
+    "purple_red.png": {
+        "position": {
+            "x": 16,
+            "y": 192
+        },
+        "base_color": "purple",
+        "overlay_color": "red"
+    },
+    "purple_white.png": {
+        "position": {
+            "x": 32,
+            "y": 192
+        },
+        "base_color": "purple",
+        "overlay_color": "white"
+    },
+    "purple_yellow.png": {
+        "position": {
+            "x": 48,
+            "y": 192
+        },
+        "base_color": "purple",
+        "overlay_color": "yellow"
+    },
+    "red_black.png": {
+        "position": {
+            "x": 64,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "black"
+    },
+    "red_blue.png": {
+        "position": {
+            "x": 80,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "blue"
+    },
+    "red_brown.png": {
+        "position": {
+            "x": 96,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "brown"
+    },
+    "red_cyan.png": {
+        "position": {
+            "x": 112,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "cyan"
+    },
+    "red_gray.png": {
+        "position": {
+            "x": 144,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "gray"
+    },
+    "red_lime.png": {
+        "position": {
+            "x": 192,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "lime"
+    },
+    "red_magenta.png": {
+        "position": {
+            "x": 208,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "magenta"
+    },
+    "red_orange.png": {
+        "position": {
+            "x": 224,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "orange"
+    },
+    "red_pink.png": {
+        "position": {
+            "x": 240,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "pink"
+    },
+    "red_purple.png": {
+        "position": {
+            "x": 256,
+            "y": 192
+        },
+        "base_color": "red",
+        "overlay_color": "purple"
+    },
+    "red_red.png": {
+        "position": {
+            "x": 0,
+            "y": 208
+        },
+        "base_color": "red",
+        "overlay_color": "red"
+    },
+    "red_white.png": {
+        "position": {
+            "x": 16,
+            "y": 208
+        },
+        "base_color": "red",
+        "overlay_color": "white"
+    },
+    "red_yellow.png": {
+        "position": {
+            "x": 32,
+            "y": 208
+        },
+        "base_color": "red",
+        "overlay_color": "yellow"
+    },
+    "white_black.png": {
+        "position": {
+            "x": 48,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "black"
+    },
+    "white_blue.png": {
+        "position": {
+            "x": 64,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "blue"
+    },
+    "white_brown.png": {
+        "position": {
+            "x": 80,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "brown"
+    },
+    "white_cyan.png": {
+        "position": {
+            "x": 96,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "cyan"
+    },
+    "white_gray.png": {
+        "position": {
+            "x": 128,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "gray"
+    },
+    "white_lime.png": {
+        "position": {
+            "x": 176,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "lime"
+    },
+    "white_magenta.png": {
+        "position": {
+            "x": 192,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "magenta"
+    },
+    "white_orange.png": {
+        "position": {
+            "x": 208,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "orange"
+    },
+    "white_pink.png": {
+        "position": {
+            "x": 224,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "pink"
+    },
+    "white_purple.png": {
+        "position": {
+            "x": 240,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "purple"
+    },
+    "white_red.png": {
+        "position": {
+            "x": 256,
+            "y": 208
+        },
+        "base_color": "white",
+        "overlay_color": "red"
+    },
+    "white_white.png": {
+        "position": {
+            "x": 0,
+            "y": 224
+        },
+        "base_color": "white",
+        "overlay_color": "white"
+    },
+    "white_yellow.png": {
+        "position": {
+            "x": 16,
+            "y": 224
+        },
+        "base_color": "white",
+        "overlay_color": "yellow"
+    },
+    "yellow_black.png": {
+        "position": {
+            "x": 32,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "black"
+    },
+    "yellow_blue.png": {
+        "position": {
+            "x": 48,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "blue"
+    },
+    "yellow_brown.png": {
+        "position": {
+            "x": 64,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "brown"
+    },
+    "yellow_cyan.png": {
+        "position": {
+            "x": 80,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "cyan"
+    },
+    "yellow_gray.png": {
+        "position": {
+            "x": 112,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "gray"
+    },
+    "yellow_lime.png": {
+        "position": {
+            "x": 160,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "lime"
+    },
+    "yellow_magenta.png": {
+        "position": {
+            "x": 176,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "magenta"
+    },
+    "yellow_orange.png": {
+        "position": {
+            "x": 192,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "orange"
+    },
+    "yellow_pink.png": {
+        "position": {
+            "x": 208,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "pink"
+    },
+    "yellow_purple.png": {
+        "position": {
+            "x": 224,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "purple"
+    },
+    "yellow_red.png": {
+        "position": {
+            "x": 240,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "red"
+    },
+    "yellow_white.png": {
+        "position": {
+            "x": 256,
+            "y": 224
+        },
+        "base_color": "yellow",
+        "overlay_color": "white"
+    },
+    "yellow_yellow.png": {
+        "position": {
+            "x": 0,
+            "y": 240
+        },
+        "base_color": "yellow",
+        "overlay_color": "yellow"
+    }
+}

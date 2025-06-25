@@ -1,0 +1,226 @@
+{
+    "black_default.png": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "default"
+    },
+    "black_white_field.png": {
+        "position": {
+            "x": 8,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "white_field"
+    },
+    "black_white_spots.png": {
+        "position": {
+            "x": 16,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "white_spots"
+    },
+    "black_white_stockings_and_blaze.png": {
+        "position": {
+            "x": 24,
+            "y": 0
+        },
+        "variant": "black",
+        "decoration": "white_stockings_and_blaze"
+    },
+    "brown_default.png": {
+        "position": {
+            "x": 32,
+            "y": 0
+        },
+        "variant": "brown",
+        "decoration": "default"
+    },
+    "brown_white_field.png": {
+        "position": {
+            "x": 40,
+            "y": 0
+        },
+        "variant": "brown",
+        "decoration": "white_field"
+    },
+    "brown_white_spots.png": {
+        "position": {
+            "x": 0,
+            "y": 8
+        },
+        "variant": "brown",
+        "decoration": "white_spots"
+    },
+    "brown_white_stockings_and_blaze.png": {
+        "position": {
+            "x": 8,
+            "y": 8
+        },
+        "variant": "brown",
+        "decoration": "white_stockings_and_blaze"
+    },
+    "chestnut_default.png": {
+        "position": {
+            "x": 16,
+            "y": 8
+        },
+        "variant": "chestnut",
+        "decoration": "default"
+    },
+    "chestnut_white_field.png": {
+        "position": {
+            "x": 24,
+            "y": 8
+        },
+        "variant": "chestnut",
+        "decoration": "white_field"
+    },
+    "chestnut_white_spots.png": {
+        "position": {
+            "x": 32,
+            "y": 8
+        },
+        "variant": "chestnut",
+        "decoration": "white_spots"
+    },
+    "chestnut_white_stockings_and_blaze.png": {
+        "position": {
+            "x": 40,
+            "y": 8
+        },
+        "variant": "chestnut",
+        "decoration": "white_stockings_and_blaze"
+    },
+    "creamy_default.png": {
+        "position": {
+            "x": 0,
+            "y": 16
+        },
+        "variant": "creamy",
+        "decoration": "default"
+    },
+    "creamy_white_field.png": {
+        "position": {
+            "x": 8,
+            "y": 16
+        },
+        "variant": "creamy",
+        "decoration": "white_field"
+    },
+    "creamy_white_spots.png": {
+        "position": {
+            "x": 16,
+            "y": 16
+        },
+        "variant": "creamy",
+        "decoration": "white_spots"
+    },
+    "creamy_white_stockings_and_blaze.png": {
+        "position": {
+            "x": 24,
+            "y": 16
+        },
+        "variant": "creamy",
+        "decoration": "white_stockings_and_blaze"
+    },
+    "donkey_default.png": {
+        "position": {
+            "x": 16,
+            "y": 24
+        },
+        "variant": "donkey",
+        "decoration": "default"
+    },
+    "gray_default.png": {
+        "position": {
+            "x": 24,
+            "y": 24
+        },
+        "variant": "gray",
+        "decoration": "default"
+    },
+    "gray_white_field.png": {
+        "position": {
+            "x": 32,
+            "y": 24
+        },
+        "variant": "gray",
+        "decoration": "white_field"
+    },
+    "gray_white_spots.png": {
+        "position": {
+            "x": 40,
+            "y": 24
+        },
+        "variant": "gray",
+        "decoration": "white_spots"
+    },
+    "gray_white_stockings_and_blaze.png": {
+        "position": {
+            "x": 0,
+            "y": 32
+        },
+        "variant": "gray",
+        "decoration": "white_stockings_and_blaze"
+    },
+    "mule_default.png": {
+        "position": {
+            "x": 8,
+            "y": 32
+        },
+        "variant": "mule",
+        "decoration": "default"
+    },
+    "skeleton_default.png": {
+        "position": {
+            "x": 16,
+            "y": 32
+        },
+        "variant": "skeleton",
+        "decoration": "default"
+    },
+    "white_default.png": {
+        "position": {
+            "x": 24,
+            "y": 32
+        },
+        "variant": "white",
+        "decoration": "default"
+    },
+    "white_white_field.png": {
+        "position": {
+            "x": 32,
+            "y": 32
+        },
+        "variant": "white",
+        "decoration": "white_field"
+    },
+    "white_white_spots.png": {
+        "position": {
+            "x": 40,
+            "y": 32
+        },
+        "variant": "white",
+        "decoration": "white_spots"
+    },
+    "white_white_stockings_and_blaze.png": {
+        "position": {
+            "x": 0,
+            "y": 40
+        },
+        "variant": "white",
+        "decoration": "white_stockings_and_blaze"
+    },
+    "zombie_default.png": {
+        "position": {
+            "x": 8,
+            "y": 40
+        },
+        "variant": "zombie",
+        "decoration": "default"
+    }
+}
