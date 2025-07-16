@@ -9,16 +9,16 @@ The icons are available in two designs:
 
 ### 8x8
 
-![image](https://github.com/ADHDMC/Entity-Icons/blob/main/Entities/8x8_display.png?raw=true)
+![image](https://github.com/Simplexity-Development/Entity-Icons/blob/main/assets/8x8_display.png?raw=true)
 
 |                                              Sprite PNG                                              |                                               Sprite JSON                                                |
 |:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-| [8x8 PNG](https://github.com/Simplexity/Entity-Icons/blob/main/Entities/sprite_sheets/8x8_sheet.png) | [8x8 JSON](https://github.com/Simplexity/Entity-Icons/blob/main/Entities/sprite_sheets/8x8_sprites.json) |
+| [8x8 PNG](https://github.com/Simplexity-Development/Entity-Icons/blob/main/assets/sprite_sheets/8x8_sheet.png) | [8x8 JSON](https://github.com/Simplexity-Development/Entity-Icons/blob/main/assets/sprite_sheets/8x8_sprites.json) |
 
 ### 16x16
 
-![image](https://github.com/ADHDMC/Entity-Icons/blob/main/Entities/16x16_display.png?raw=true)
+![image](https://github.com/Simplexity-Development/Entity-Icons/blob/main/assets/16x16_display.png?raw=true)
 
 |                                                     Sprite PNG                                                     |                                                 Sprite JSON                                                  |
 |:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-| [16x16 PNG](https://raw.githubusercontent.com/Simplexity/Entity-Icons/main/Entities/sprite_sheets/16x16_sheet.png) | [16x16 JSON](https://github.com/Simplexity/Entity-Icons/blob/main/Entities/sprite_sheets/16x16_sprites.json) |
+| [16x16 PNG](https://github.com/Simplexity-Development/Entity-Icons/blob/main/assets/sprite_sheets/16x16_sheet.png) | [16x16 JSON](https://github.com/Simplexity-Development/Entity-Icons/blob/main/assets/sprite_sheets/16x16_sprites.json) |
